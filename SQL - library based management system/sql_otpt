@@ -1,0 +1,50 @@
+--
+| book_id | book_name                          | author_id | author_first_name | author_last_name |
+|---------|------------------------------------|-----------|-------------------|------------------|
+| book1   | 1984                               | auth1     | George            | Orwell           |
+| book3   | The Shining                        | auth3     | Stephen           | King             |
+
+--
+| book_id | book_name                          | release_date |
+|---------|------------------------------------|--------------|
+| book1   | 1984                               | 1949-06-08   |
+
+--
+| reader_id | first_name | last_name | total_books_issued |
+|-----------|------------|-----------|--------------------|
+| reader1   | Mark       | Robinson  | 2                  |
+| reader2   | Emma       | White     | 1                  |
+| reader3   | Daniel     | Lee       | 0                  |
+| reader4   | Sophia     | Taylor    | 1                  |
+
+--
+| book_id | book_name                          | issued_to | current_fine |
+|---------|------------------------------------|-----------|--------------|
+| book1   | 1984                               | reader1   | 2.50         |
+| book2   | Harry Potter and the Philosopher's Stone | reader2   | 1.25         |
+
+--
+| book_id | book_name                          | availability_status |
+|---------|------------------------------------|---------------------|
+| book1   | 1984                               | Available           |
+| book2   | Harry Potter and the Philosopher's Stone | Available           |
+| book3   | The Shining                        | Available           |
+| book4   | Murder on the Orient Express        | Available           |
+| book5   | Pride and Prejudice                 | Available           |
+
+--
+| author_id | first_name | last_name | publications_count |
+|-----------|------------|-----------|--------------------|
+| auth3     | Stephen    | King      | 20                 |
+| auth2     | J.K.       | Rowling   | 15                 |
+| auth4     | Agatha     | Christie  | 30                 |
+
+--
+| total_fine_collected |
+|----------------------|
+| 10.50                |
+
+--
+| avg_books_issued_per_reader |
+|-----------------------------|
+| 6.5                         |
