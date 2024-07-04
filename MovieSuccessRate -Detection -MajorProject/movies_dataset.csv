@@ -1,0 +1,55 @@
+title,budget,runtime,genre,director,release_date,success
+Inception,160000000,148,Sci-Fi,Christopher Nolan,16-07-2010,1
+The Dark Knight,185000000,152,Action,Christopher Nolan,18-07-2008,1
+Avatar,237000000,162,Action,James Cameron,18-12-2009,1
+Titanic,200000000,195,Drama,James Cameron,19-12-1997,1
+Interstellar,165000000,169,Sci-Fi,Christopher Nolan,07-11-2014,1
+Jurassic Park,63000000,127,Action,Steven Spielberg,11-06-1993,1
+Jaws,7000000,124,Thriller,Steven Spielberg,20-06-1975,1
+Saving Private Ryan,70000000,169,War,Steven Spielberg,24-07-1998,1
+The Avengers,220000000,143,Action,Joss Whedon,04-05-2012,1
+Deadpool,58000000,108,Action,Tim Miller,12-02-2016,1
+Logan,97000000,137,Action,James Mangold,03-03-2017,1
+La La Land,30000000,128,Musical,Damien Chazelle,09-12-2016,1
+Gravity,100000000,91,Sci-Fi,Alfonso Cuarón,04-10-2013,1
+Blade Runner 2049,150000000,164,Sci-Fi,Denis Villeneuve,06-10-2017,1
+Black Panther,200000000,134,Action,Ryan Coogler,16-02-2018,1
+The Revenant,135000000,156,Drama,Alejandro González Iñárritu,25-12-2015,1
+Mad Max: Fury Road,150000000,120,Action,George Miller,15-05-2015,1
+The Social Network,40000000,120,Drama,David Fincher,01-10-2010,1
+The Martian,108000000,144,Sci-Fi,Ridley Scott,02-10-2015,1
+Shutter Island,80000000,138,Mystery,Martin Scorsese,19-02-2010,1
+Goodfellas,25000000,146,Crime,Martin Scorsese,19-09-1990,1
+The Godfather,6000000,175,Crime,Francis Ford Coppola,24-03-1972,1
+Fight Club,63000000,139,Drama,David Fincher,15-10-1999,1
+American Beauty,15000000,122,Drama,Sam Mendes,01-10-1999,1
+The Departed,90000000,151,Crime,Martin Scorsese,06-10-2006,1
+Pulp Fiction,8000000,154,Crime,Quentin Tarantino,14-10-1994,1
+Forrest Gump,55000000,142,Drama,Robert Zemeckis,06-07-1994,1
+The Shawshank Redemption,25000000,142,Drama,Frank Darabont,14-10-1994,1
+The Matrix,63000000,136,Action,Lana Wachowski,31-03-1999,1
+Inglourious Basterds,70000000,153,War,Quentin Tarantino,21-08-2009,1
+Django Unchained,100000000,165,Western,Quentin Tarantino,25-12-2012,1
+Back to the Future,19000000,116,Adventure,Robert Zemeckis,03-07-1985,1
+Avatar 2,250000000,0,Action,James Cameron,16-12-2022,0
+The Croods,135000000,95,Animation,Chris Sanders,22-03-2013,0
+The Emoji Movie,50000000,86,Animation,Tony Leondis,28-07-2017,0
+Cats,95000000,110,Drama,Tom Hooper,20-12-2019,0
+Dolittle,175000000,101,Adventure,Stephen Gaghan,17-01-2020,0
+Fantasy Island,7000000,109,Adventure,Jeff Wadlow,14-02-2020,0
+Birds of Prey,84500000,109,Action,Cathy Yan,07-02-2020,0
+The Grudge,10000000,93,Horror,Nicolas Pesce,03-01-2020,0
+Sonic the Hedgehog,85000000,99,Action,Jeff Fowler,14-02-2020,0
+Bloodshot,45000000,110,Action,Dave Wilson,13-03-2020,0
+Artemis Fowl,125000000,95,Adventure,Kenneth Branagh,12-06-2020,0
+Tenet,200000000,150,Action,Christopher Nolan,03-09-2020,0
+Top Gun: Maverick,152000000,0,Action,Joseph Kosinski,27-05-2022,0
+Minions: The Rise of Gru,80000000,0,Animation,Kyle Balda,01-07-2022,0
+The Batman,180000000,0,Action,Matt Reeves,04-03-2022,0
+The Flash,150000000,0,Action,Andy Muschietti,04-11-2022,0
+Avatar 3,250000000,0,Action,James Cameron,20-12-2024,0
+Guardians of the Galaxy Vol. 3,0,0,Action,James Gunn,05-05-2023,0
+Indiana Jones 5,0,0,Adventure,James Mangold,28-07-2023,0
+Black Panther: Wakanda Forever,0,0,Action,Ryan Coogler,11-11-2022,0
+Avatar 4,0,0,Action,James Cameron,18-12-2026,0
+Avatar 5,0,0,Action,James Cameron,22-12-2028,0
